@@ -58,10 +58,6 @@ Most modern terminals support truecolor, including GNOME Terminal, Kitty, Alacri
 
 ## 🚀 Build
 
-```bash
-
-```
-
 Compile:
 
 ```bash
